@@ -20,4 +20,4 @@ Shopmart is a responsive e-commerce website developed using HTML, CSS, and JavaS
 
 ## Project Link
 
-Live Website: https://imjayatiwari.github.io/Shopmart/
+Live Website: https://imJayatiwari.github.io/Shopmart/
